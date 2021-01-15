@@ -152,6 +152,11 @@ a.text-dark:hover, a.text-dark:focus {
   color: #8492a6 !important;
 }
 
+.text-muted-p {
+  color: #8492a6 !important;
+  text-align: justify;
+}
+
 a.text-muted:hover, a.text-muted:focus {
   color: #68788f !important;
 }
